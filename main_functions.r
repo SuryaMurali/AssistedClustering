@@ -10,7 +10,7 @@ MDistance <- function(n,D)
     }
   return(MD)
 }    
-
+#
 
 MDistanceVectorFtn <- function(DistanceMatrix)
 { #---------------------------------------------------#
